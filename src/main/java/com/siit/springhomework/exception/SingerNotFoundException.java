@@ -1,4 +1,4 @@
-package com.siit.spring.exception;
+package com.siit.springhomework.exception;
 
 import org.springframework.core.NestedRuntimeException;
 

@@ -1,6 +1,6 @@
-package com.siit.spring.repository;
+package com.siit.springhomework.repository;
 
-import com.siit.spring.domain.entity.SingerEntity;
+import com.siit.springhomework.domain.entity.SingerEntity;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

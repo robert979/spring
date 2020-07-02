@@ -1,4 +1,4 @@
-package com.siit.spring.controller;
+package com.siit.springhomework.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

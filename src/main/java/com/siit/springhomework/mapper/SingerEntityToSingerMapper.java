@@ -1,9 +1,9 @@
-package com.siit.spring.mapper;
+package com.siit.springhomework.mapper;
 
-import com.siit.spring.domain.entity.AlbumEntity;
-import com.siit.spring.domain.entity.SingerEntity;
-import com.siit.spring.domain.model.Album;
-import com.siit.spring.domain.model.Singer;
+import com.siit.springhomework.domain.entity.AlbumEntity;
+import com.siit.springhomework.domain.entity.SingerEntity;
+import com.siit.springhomework.domain.model.Album;
+import com.siit.springhomework.domain.model.Singer;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package com.siit.spring;
+package com.siit.springhomework;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

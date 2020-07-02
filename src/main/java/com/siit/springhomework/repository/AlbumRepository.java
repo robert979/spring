@@ -1,6 +1,6 @@
-package com.siit.spring.repository;
+package com.siit.springhomework.repository;
 
-import com.siit.spring.domain.entity.AlbumEntity;
+import com.siit.springhomework.domain.entity.AlbumEntity;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

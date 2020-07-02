@@ -1,4 +1,4 @@
-package com.siit.spring.domain.model;
+package com.siit.springhomework.domain.model;
 
 import java.time.LocalDate;
 import java.util.List;

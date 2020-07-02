@@ -1,9 +1,9 @@
-package com.siit.spring.controller;
+package com.siit.springhomework.controller;
 
 import com.ApplicationProperties;
-import com.siit.spring.domain.model.Singer;
-import com.siit.spring.exception.SingerNotFoundException;
-import com.siit.spring.service.SingerService;
+import com.siit.springhomework.domain.model.Singer;
+import com.siit.springhomework.exception.SingerNotFoundException;
+import com.siit.springhomework.service.SingerService;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;

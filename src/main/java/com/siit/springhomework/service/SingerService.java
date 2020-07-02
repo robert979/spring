@@ -1,11 +1,11 @@
-package com.siit.spring.service;
+package com.siit.springhomework.service;
 
-import com.siit.spring.domain.entity.SingerEntity;
-import com.siit.spring.domain.model.Singer;
-import com.siit.spring.exception.SingerNotFoundException;
-import com.siit.spring.mapper.SingerEntityToSingerMapper;
-import com.siit.spring.mapper.SingerToSingerEntityMapper;
-import com.siit.spring.repository.SingerRepository;
+import com.siit.springhomework.domain.entity.SingerEntity;
+import com.siit.springhomework.domain.model.Singer;
+import com.siit.springhomework.exception.SingerNotFoundException;
+import com.siit.springhomework.mapper.SingerEntityToSingerMapper;
+import com.siit.springhomework.mapper.SingerToSingerEntityMapper;
+import com.siit.springhomework.repository.SingerRepository;
 
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
