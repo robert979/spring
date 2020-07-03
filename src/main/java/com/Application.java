@@ -21,7 +21,7 @@ public class Application implements CommandLineRunner {
         System.out.println("beanutza -->" + beanutza);
 
         BeanWithDependencyHelloWorld bean = applicationContext.getBean(BeanWithDependencyHelloWorld.class);
-        //bean.getHelloWorld().sayHello();
+        bean.getHelloWorlds().sayHello();
 
 
 

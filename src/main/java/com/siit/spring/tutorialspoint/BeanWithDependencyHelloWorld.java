@@ -11,5 +11,5 @@ import org.springframework.stereotype.Service;
 public class BeanWithDependencyHelloWorld {
 
     @Qualifier("helloSpring")
-    private HelloWorld helloWorld;
+    private HelloWorld helloWorlds;
 }
